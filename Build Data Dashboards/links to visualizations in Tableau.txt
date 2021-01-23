@@ -1,19 +1,10 @@
-First visualization: How does the income look across United States?
 
-https://public.tableau.com/profile/monika6382#!/vizhome/Visualization1_15873124204640/income_state?publish=yes
-
-Second visualization: How does the income look across individual states and counties?
+https://public.tableau.com/profile/monika6382#!/vizhome/Visualization1_15873124204640/income_state?publish=yes?
 
 https://public.tableau.com/profile/monika6382#!/vizhome/Visualization2_15873160380590/income_state1?publish=yes
 
-Third visualization: Whether the number of people employed in a given state has an impact on income?
-
 https://public.tableau.com/profile/monika6382#!/vizhome/Visualization3_15873267742240/Incomevs_Employed?publish=yes
 
-Dashboard: 
-
 https://public.tableau.com/profile/monika6382#!/vizhome/Dashboard1_15873275247740/dashboard_income?publish=yes
-
-Forth visualization: In what states mean commute time is the highest?
 
 https://public.tableau.com/profile/monika6382#!/vizhome/Visualization5_15873300466310/state_county_meancommute?publish=yes
